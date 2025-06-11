@@ -7,8 +7,24 @@ As a cybersecurity enthusiast, I have built a solid foundation in identifying se
 
 # 💻 Tech Stack:
  
+
+[![qradar](https://img.shields.io/badge/qradar-007AFF.svg?style=for-the-badge&logo=radar)](https://www.qradar.com/)
+
+[![Elastic Stack](https://img.shields.io/badge/ElasticStack-aa00ff.svg?style=for-the-badge&logo=ElasticStack)](https://www.ElasticStack.com/)
+
+[![kibana](https://img.shields.io/badge/kibana-005571.svg?style=for-the-badge&logo=kibana)](https://www.splunk.com/)
+
+[![Wireshark](https://img.shields.io/badge/Wireshark-58B1E4.svg?style=for-the-badge&logo=Wireshark)](https://www.Wireshark.com/)
+
 [![Linux](https://img.shields.io/badge/linux-000000.svg?style=for-the-badge&logo=linux)](https://www.linux.org/)
-[![splunk](https://img.shields.io/badge/splunk-000000.svg?style=for-the-badge&logo=splunk)](https://www.splunk.com/)
+
+[![kalilinux](https://img.shields.io/badge/kalilinux-000000.svg?style=for-the-badge&logo=kalilinux)](https://www.splunk.com/)
+
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-000000.svg?style=for-the-badge&logo=Ubuntu)](https://www.splunk.com/)
+
+[![Secure Onion](https://img.shields.io/badge/SecureOnion-000000.svg?style=for-the-badge&logo=torproject)](https://www.splunk.com/)
+
+[![debian](https://img.shields.io/badge/debian-000000.svg?style=for-the-badge&logo=debian)](https://www.splunk.com/)
 
 
 
