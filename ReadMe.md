@@ -17,7 +17,17 @@ As a cybersecurity enthusiast, I have built a solid foundation in identifying se
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-000000.svg?style=for-the-badge&logo=Ubuntu)](https://www.splunk.com/)
 [![Secure Onion](https://img.shields.io/badge/SecureOnion-000000.svg?style=for-the-badge&logo=torproject)](https://www.splunk.com/)
 [![debian](https://img.shields.io/badge/debian-000000.svg?style=for-the-badge&logo=debian)](https://www.splunk.com/)
-
+[![linuxserver](https://img.shields.io/badge/linuxserver-000000.svg?style=for-the-badge&logo=linuxserver)](https://www.splunk.com/)
+[![Fortinet](https://img.shields.io/badge/Fortinet-EE312.svg?style=for-the-badge&logo=Fortinet)](https://www.splunk.com/)
+[![cisco](https://img.shields.io/badge/cisco-6428B4.svg?style=for-the-badge&logo=cisco)](https://www.cisco.com/)
+[![digitalocean](https://img.shields.io/badge/digitalocean-000000.svg?style=for-the-badge&logo=digitalocean)](https://www.IDS.com/)
+[![burpsuite](https://img.shields.io/badge/burpsuite-343839.svg?style=for-the-badge&logo=burpsuite)](https://www.burpsuite.com/)
+[![FlareVM](https://img.shields.io/badge/FlareVM-FF6000.svg?style=for-the-badge&logo=FlareVM)](https://www.FlareVM.com/)
+[![Zeek](https://img.shields.io/badge/Zeek-34E27A.svg?style=for-the-badge&logo=Zeek)](https://www.Zeek.com/)
+[![Snort](https://img.shields.io/badge/Snort-F6A.svg?style=for-the-badge&logo=Snort)](https://www.Snort.com/)
+[![IDS](https://img.shields.io/badge/IDS-000000.svg?style=for-the-badge&logo=IDS)](https://www.IDS.com/)
+[![IPS](https://img.shields.io/badge/IPS-000000.svg?style=for-the-badge&logo=IDS)](https://www.IPS.com/)
+[![Nmap](https://img.shields.io/badge/Nmap-039CB2.svg?style=for-the-badge&logo=Nmap)](https://www.Nmap.com/)
 
 
 
