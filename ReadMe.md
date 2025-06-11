@@ -6,9 +6,9 @@ As a cybersecurity enthusiast, I have built a solid foundation in identifying se
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//ali-badalov/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alibadalov.20@gmail.com) 
 
 # 💻 Tech Stack:
-[![Splunk](https://img.shields.io/badge/splunk-network003791.svg?style=plastic&logo=splunk)](https://www.splunk.com) 
+ 
 [![Linux](https://img.shields.io/badge/linux-000000.svg?style=for-the-badge&logo=linux)](https://www.linux.org/)
-
+[![splunk](https://img.shields.io/badge/splunk-000000.svg?style=for-the-badge&logo=splunk)](https://www.splunk.com/)
 
 
 
