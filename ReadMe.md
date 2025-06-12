@@ -43,19 +43,19 @@ As a cybersecurity enthusiast, I have built a solid foundation in identifying se
 
  
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+[![](https://visitcount.itsvg.in/api?id=Alibadalov&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
 
-
-
-# 📊 GitHub Stats:
+<!-- 
+#  GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Alibadalov&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Alibadalov&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alibadalov&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Alibadalov&icon=0&color=0)](https://visitcount.itsvg.in)
